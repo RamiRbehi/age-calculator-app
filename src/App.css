@@ -31,7 +31,7 @@
   src: url('/assets/fonts/Poppins-ExtraBoldItalic.ttf')
     format('truetype')
     ;
-  font-style: normal;
+  font-style: italic;
   font-weight: bolder;
 }
 
@@ -54,7 +54,7 @@
 }
 
 body {
-  font-family: 'Poppins-Bold', sans-serif;
+  background-color: hsl(0, 0%, 94%);
 }
 
 
